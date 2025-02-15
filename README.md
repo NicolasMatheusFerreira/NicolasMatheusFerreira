@@ -5,6 +5,8 @@
 
 <p>Apaixonado por tecnologia e inovação :)</p>&nbsp;
 
+<p>Olá! Sou estudante de Bacharel em Sistemas de Informação pela PUC Minas, com foco no aprendizado das mais diversas áreas da computação tenho um forte interesse em aprender e aperfeicoar nas atividades do desenvolvimento de software, algorítimos e redes de computadores. Prezo muito pelo trabalho em conjunto e comunicação com objetivo de compartilhar conhecimento e agregar valor para o próximo.
+</p>
 <div  align="center" style="margin-bottom:100px">
 
 <img width=40% align="center" src="https://github-readme-stats-git-main-gabriellas-projects-788db8d2.vercel.app/api/top-langs/?username=gabriellaxdantas&show_icons=true&theme=radical&layout=compact" />
