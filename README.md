@@ -7,6 +7,7 @@
 
 <p>Olá! Sou estudante de Bacharel em Sistemas de Informação pela PUC Minas, com foco no aprendizado das mais diversas áreas da computação tenho um forte interesse em aprender e aperfeicoar nas atividades do desenvolvimento de software, algorítimos e redes de computadores. Prezo muito pelo trabalho em conjunto e comunicação com objetivo de compartilhar conhecimento e agregar valor para o próximo.
 </p>
+
 ## My Skills
 
 #### Main Stack:
